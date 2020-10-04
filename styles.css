@@ -1,4 +1,6 @@
-* {
-  font-family: Roboto;
-
+p {
+  font-family: Roboto; font-weight: normal;
+}
+a {
+font-family: Roboto
 }
