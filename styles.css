@@ -2,6 +2,37 @@ p {
   font-family: Roboto;
   font-weight: 500;
 }
+body {
+  margin: 0;
+}
 a {
   font-family: Roboto;
+}
+.wrapper {
+ margin: auto;
+ width: 80%;
+ }
+.logo, .menu {
+ display: inline-block;
+}
+.logo {
+ margin-right: 62%;
+}
+.header {
+ display: flex;
+ justify-content: space-between;
+}
+.logo {
+ padding: 40px 0 40px 0;
+}
+.menu {
+ display: flex;
+ align-items: center;
+}
+.menu__item {
+ padding: 0 13px;
+ }
+.menu__item:last-child {
+ padding-right: 0;
+ width: max-content;
 }
