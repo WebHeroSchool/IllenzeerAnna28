@@ -22,7 +22,7 @@ a {
  height: 35px;
  padding-left: 44px;
  padding-top: 43px;
- font: bold 24px/31px pt_serif,arial, helvetica,sans-serif;
+ font: bold 24px/31px pt_serif,normal;
  position: relative;
 }
 .logo__text {
