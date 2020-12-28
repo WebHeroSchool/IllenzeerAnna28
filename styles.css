@@ -1,5 +1,5 @@
 p {
-  font-family: Roboto;
+  font-family: "Roboto";
   font-weight: 500;
 }
 
@@ -28,7 +28,7 @@ a {
   height: 35px;
   padding-left: 44px;
   padding-top: 43px;
-  font: bold 24px/31px pt_serif, normal;
+  font: bold 24px/31px "pt_serif", normal;
   position: relative;
 }
 
@@ -85,6 +85,7 @@ a {
   text-decoration: none;
   padding: 0 13px;
 }
+
 .menu__item:last-child {
   padding-right: 0;
   width: max-content;
