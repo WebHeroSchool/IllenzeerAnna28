@@ -77,11 +77,6 @@ a {
   align-items: center;
 }
 
-.menu__item:last-child {
-  padding-right: 0;
-  width: max-content;
-}
-
 .menu__item {
   position: relative;
   margin-right: 28px;
@@ -90,8 +85,9 @@ a {
   text-decoration: none;
   padding: 0 13px;
 }
-
 .menu__item:last-child {
+  padding-right: 0;
+  width: max-content;
   margin-right: 0;
 }
 
