@@ -1,5 +1,5 @@
 p {
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  font-family: Roboto;
+  font-family: 'Roboto'
 }
 
 .wrapper {
@@ -28,7 +28,7 @@ a {
   height: 35px;
   padding-left: 44px;
   padding-top: 43px;
-  font: bold 24px/31px "pt_serif", normal;
+  font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
   position: relative;
 }
 
